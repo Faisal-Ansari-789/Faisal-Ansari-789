@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Faisal-Ansari-789
+- 👀 I’m interested in Robotics and Automated Defence Systems
+- 🌱 I’m currently learning Artificial Intelligence & Data Science.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me E-mail :- lightmystic789@gmail.com
+- ⚡ Fun fact: The earth is round
