@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faisal-Ansari-789
+- 👋 Hi, I’m @Faisal Ansari
 - 👀 I’m interested in Robotics and Automated Defence Systems
 - 🌱 I’m currently learning Artificial Intelligence & Data Science.
 - 💞️ I’m looking to collaborate on ...
