@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Ansari Mohammed Faisal
 - 👀 I’m interested in Robotics and Automated Defence Systems
 - 🌱 I’m currently learning Artificial Intelligence & Data Science.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm Looking to collaborate on AI, Machine Learning and Backend Development projects.
 - 📫 How to reach me E-mail :- ansari.mohammed.faisal.789@gmail.com
 - ⚡ Fun fact: The earth is round
